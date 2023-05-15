@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'tugas/basic widget/fic_circle_avatar_widget.dart';
 import 'tugas/basic widget/fic_container_widget.dart';
+import 'tugas/basic widget/fic_icon_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const ContainerWidget(),
+      home: const IconWidget(),
       // Scaffold(
       //   appBar: AppBar(
       //     title: const Text('Jago Flutter'),
