@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:project_flutter_pertama/tugas/basic_layout/fic_aspectratio_widget.dart';
 
-import 'tugas/basic widget/fic_circle_avatar_widget.dart';
-import 'tugas/basic widget/fic_container_widget.dart';
-import 'tugas/basic widget/fic_icon_widget.dart';
+import 'tugas/basic_widget/fic_circle_avatar_widget.dart';
+import 'tugas/basic_widget/fic_container_widget.dart';
+import 'tugas/basic_widget/fic_icon_widget.dart';
 
 void main() {
   runApp(const MyApp());
